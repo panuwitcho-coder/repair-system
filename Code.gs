@@ -11,7 +11,7 @@
 // 4. Copy Web App URL ไปใส่ใน Admin Panel → ตั้งค่า → Google Script URL
 // ============================================================
 
-const SITE_URL = 'https://yourusername.github.io/repair-system'; // ← เปลี่ยนให้ตรง
+const SITE_URL = 'https://panuwitcho-coder.github.io/repair-system/'; // ← เปลี่ยนให้ตรง
 
 function doPost(e) {
   try {
