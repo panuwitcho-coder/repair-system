@@ -163,7 +163,7 @@ const DB = {
       emailjsTemplateId:'',
       emailjsPublicKey: '',
       googleScriptUrl:  '',
-      adminEmail:       '',
+      adminEmail:       'phr@cdti.ac.th',
       orgName:          'ระบบแจ้งซ่อมออนไลน์',
       notifyOnNew:      true,
       notifyOnAssign:   true,
