@@ -253,7 +253,7 @@ function jsonResponse(data) {
 // ============================================================
 function setupProperties() {
   PropertiesService.getScriptProperties().setProperties({
-    'WEBHOOK_URL': 'YOUR_WEBHOOK_URL_HERE', // ← ใส่ URL ของ Webhook ถ้ามี
+    'WEBHOOK_URL': 'https://chat.googleapis.com/v1/spaces/AAQAyVc3FkE/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=Zb6dxXDXnV-PZLNtyaWUU9hNS2ZFCS_TAUJ00Ibre-U', // ← ใส่ URL ของ Webhook ถ้ามี
   });
   Logger.log('Setup complete!');
 }
